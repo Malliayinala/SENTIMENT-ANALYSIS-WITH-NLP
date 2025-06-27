@@ -26,7 +26,7 @@ Description: A collection of 1.6 million labeled tweets with sentiment polarity 
 
 Includes tweets, tweet IDs, dates, user info, and their sentiments. 
 
-🛠️ Tools & Libraries
+## 🛠️ Tools & Libraries
 
 Python	
 
@@ -40,7 +40,8 @@ Matplotlib/Seaborn
 
 ## Platform	Role
 
-Jupyter Notebook 
+Jupyter Notebook
+
 Kaggle
 
 ## 🌐 Applications
@@ -54,3 +55,4 @@ This project is applicable in various real-world scenarios:
 
 ## output 
 
+![Image](https://github.com/user-attachments/assets/e3b9e3b4-88ae-4ba0-9b3a-895b16d1d678)
